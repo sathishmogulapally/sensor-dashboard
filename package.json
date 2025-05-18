@@ -1,0 +1,15 @@
+{
+  "name": "sensor-dashboard",
+  "version": "1.0.0",
+  "description": "Real-time sensor dashboard with Chart.js and Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.9.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
+}
